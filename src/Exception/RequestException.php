@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace yebindar\Http\Exception;
+namespace Yebindar\Http\Exception;
 
 
 class RequestException extends \Exception

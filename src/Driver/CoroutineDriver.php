@@ -1,11 +1,11 @@
 <?php declare(strict_types=1);
 
 
-namespace yebindar\Http\Driver;
+namespace Yebindar\Http\Driver;
 
 use Swoole\Coroutine\System;
 use Swoole\Coroutine\Http\Client;
-use yebindar\Http\Exception\RequestException;
+use Yebindar\Http\Exception\RequestException;
 
 class CoroutineDriver implements IDriver
 {

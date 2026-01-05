@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace yebindar\Http;
+namespace Yebindar\Http;
 
 
 use yebindar\Http\Driver\GuzzleDriver;

@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yebindar\\Http\\": "src/"
+      "Yebindar\\Http\\": "src/"
     }
   },
   "require-dev": {

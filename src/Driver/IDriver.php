@@ -1,6 +1,6 @@
 <?php
 
-namespace yebindar\Http\Driver;
+namespace Yebindar\Http\Driver;
 
 interface IDriver
 {

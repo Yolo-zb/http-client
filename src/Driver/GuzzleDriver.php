@@ -1,11 +1,11 @@
 <?php declare(strict_types=1);
 
 
-namespace yebindar\Http\Driver;
+namespace Yebindar\Http\Driver;
 
 use GuzzleHttp\Client;
 use Psr\Http\Message\ResponseInterface;
-use yebindar\Http\Exception\RequestException;
+use Yebindar\Http\Exception\RequestException;
 
 class GuzzleDriver implements IDriver
 {
